@@ -20,6 +20,7 @@
  * File           : main.c
  * Version        : V1.00
  * Programmer(s)  : Justin Salanga
+			Peter Chim
  * Description    : This example uses Serial Peripheral Interface (SPI) of WyzBee board as master in polling method and OLED screen as slave to print a text message.
  *********************************************************************************************************
  * Note(s)		 :
